@@ -1,0 +1,28 @@
+body{
+    font-family: Tahoma, san-serif ;
+}
+
+main{
+max-width: 400px;
+position: relative;
+top: 100px;
+margin: auto;
+}
+
+input{
+    border-radius: 20px;
+    border: solid;
+    border-color: gray;
+    opacity: 0.5;
+}
+#boton{
+    border-radius: 20px;
+    max-width: 40%;
+    margin: auto;
+}
+#condiciones{
+    font-weight: bold;
+}
+hr{
+    color: gray;
+}
